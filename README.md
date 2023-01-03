@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![2022](img/badge-2022.png "2022")
+![2023](img/badge-2023.png "2022")
 
+![2022](img/badge-2022.png "2022")
 ![2021](img/badge-2021.png "2021")
 ![2020](img/badge-2020.png "2020")
 ![2019](img/badge-2019.png "2019")
